@@ -35,4 +35,18 @@ Escalabilidade para futuros desenvolvimentos.
 ## Solução Usando estrura de componentes e dependências
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/1ffa74321f4214713cc4b83b4a3d4a313c745662/Salary-Java/inje%C3%A7%C3%A3o%20de%20depencia%20-%20codigo.png)
 
+# Como executar o projeto
+
+Pré-requisitos: Java 17
+
+```bash
+# clonar repositório
+git clone https://github.com/pedrohf0001/dslist.git
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
 
