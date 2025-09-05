@@ -13,6 +13,6 @@ Projeto de estudo, aplicando conceitos de componentes e injeção de dependênci
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/c6b3cebf1cfadab867c62086133abe575729661c/Componentes%20e%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia.png)
 
 ## Solução Usando estrura de componentes e dependências
-![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/c6b3cebf1cfadab867c62086133abe575729661c/Componentes%20e%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia.png)
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/8c43be2b2d400ca5dd142421bb93a2c9de2b0a67/Salary-Java/inje%C3%A7%C3%A3o%20de%20depencia%20-%20codigo.png)
 
 
