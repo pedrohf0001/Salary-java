@@ -1,6 +1,7 @@
 package app;
 
 import entities.Employee;
+import services.BrasilTaxService;
 import services.PensionService;
 import services.SalaryService;
 import services.TaxService;
@@ -21,7 +22,7 @@ public class Main {
 
         Employee employee = new Employee(name, grossSalary);
 
-        TaxService taxService = new TaxService();
+        TaxService taxService = new BrasilTaxService(); // Upcasting instancio a Super classe pegando o objeto da Sub Classe
         PensionService pensionService = new PensionService();
 
         SalaryService salaryService = new SalaryService(taxService, pensionService);
