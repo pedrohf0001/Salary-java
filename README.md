@@ -6,18 +6,23 @@
 Este projeto demonstra a aplicação de Inversão de Controle (IoC) e Injeção de Dependências (DI) em uma estrutura modular baseada em componentes.
 
 🎯 Objetivo
+
 Mostrar como um problema simples, que poderia ser resolvido em poucas linhas de código, pode ganhar organização, escalabilidade e manutenibilidade quando estruturado com boas práticas de arquitetura.
 
 🔑 Conceitos Aplicados
 
 Injeção de Dependências (DI) → reduz acoplamento entre classes.
+
 Inversão de Controle (IoC) → centraliza o gerenciamento de dependências.
+
 Componentização → divide o sistema em módulos reutilizáveis e independentes.
 
 🚀 Benefícios
 
 Código mais limpo e estruturado;
+
 Facilidade de manutenção e testes;
+
 Escalabilidade para futuros desenvolvimentos.
 
 ## Modelo conceitual
