@@ -3,7 +3,22 @@
 
 # Sobre o projeto
 
-Projeto de estudo, aplicando conceitos de componentes e injeção de dependências, nesse projeto de estudo mostra como um simples código que poderia ser resolvido em poucas linhas, mas se colocado em uma estrutura de componentes e injeção de dependências fica organizado, estruturado e usando inversão de controle, para a medida que o código cresce fique fácil a manutenção  e entendimento.
+Este projeto demonstra a aplicação de Inversão de Controle (IoC) e Injeção de Dependências (DI) em uma estrutura modular baseada em componentes.
+
+🎯 Objetivo
+Mostrar como um problema simples, que poderia ser resolvido em poucas linhas de código, pode ganhar organização, escalabilidade e manutenibilidade quando estruturado com boas práticas de arquitetura.
+
+🔑 Conceitos Aplicados
+
+Injeção de Dependências (DI) → reduz acoplamento entre classes.
+Inversão de Controle (IoC) → centraliza o gerenciamento de dependências.
+Componentização → divide o sistema em módulos reutilizáveis e independentes.
+
+🚀 Benefícios
+
+Código mais limpo e estruturado;
+Facilidade de manutenção e testes;
+Escalabilidade para futuros desenvolvimentos.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/c6b3cebf1cfadab867c62086133abe575729661c/Componentes%20e%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia.png)
