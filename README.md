@@ -49,4 +49,10 @@ cd backend
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+# Autor
+
+Pedro Henrique Fonseca
+
+www.linkedin.com/in/pedro-fonseca-14a65a118
+
 
