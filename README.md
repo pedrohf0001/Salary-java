@@ -41,10 +41,10 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/pedrohf0001/dslist.git
+git clone https://github.com/pedrohf0001/Salary-java.git
 
 # entrar na pasta do projeto back end
-cd backend
+cd Salary-java
 
 # executar o projeto
 ./mvnw spring-boot:run
