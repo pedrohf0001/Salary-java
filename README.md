@@ -17,7 +17,7 @@ Inversão de Controle (IoC) → centraliza o gerenciamento de dependências.
 
 Componentização → divide o sistema em módulos reutilizáveis e independentes.
 
-🚀 ## Benefícios
+🚀 ## Benéficios 
 
 Código mais limpo e estruturado;
 
